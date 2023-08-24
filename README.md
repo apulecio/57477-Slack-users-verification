@@ -1,5 +1,7 @@
 # User Duplication Checker
 
+In this repository are various scripts that have helped in the feature [FEATURE 57477 Slack users verification](https://dev.azure.com/anthologyinc-cio/Anthology%20IT/_workitems/edit/57477)
+
 This Python program is designed to process a list of usernames and their corresponding statuses to identify usernames that appear twice with the "Member" status. It achieves this by performing two key functions:
 
 1. `eliminar_numeros(lista)`: This function takes a list of strings as input and removes any numerical digits from each string using regular expressions.
