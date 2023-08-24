@@ -1,3 +1,4 @@
+# Identify users with duplicate accounts in Slack (Blackboard and Anthology emails) and deactivate the inactive one. 
 import re
 
 def eliminar_numeros(lista):
